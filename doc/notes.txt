@@ -1,3 +1,9 @@
+Sat 27 Nov 14:32:35 UTC 2021
+
+Keypad use:
+
+  https://colorforth.github.io/user.htm
+
 Sat 27 Nov 12:17:56 UTC 2021
 
   * installed bochs
