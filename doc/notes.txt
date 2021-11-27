@@ -1,0 +1,12 @@
+Sat 27 Nov 12:17:56 UTC 2021
+
+  * installed bochs
+  * installed nasm
+  * installed bochs-x (after 'make bochs' fails)
+
+Bochs too complex.  Went with qemu, which did succeed:
+
+  * installed qemu - almost an empty package!
+  * installed qemu-system-x86
+
+From there, 'make ; make qemu' seemed to be enough!  Debian amd_64 Bullseye.
